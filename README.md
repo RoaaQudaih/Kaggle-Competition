@@ -1,9 +1,9 @@
 # Kaggle-Competition
 ##Predict survival on the Titanic.
-1.loading data.
+#1.loading data.
   -Read about the dataset and problem.
   -loading train and test data from kaggle using dataframe in pandas library.
-2.Analysis Data.
+#2.Analysis Data.
   -Exploratory for the data.  Understanding the data, find the correlation between the columns and find the pattern. 
   -Data Virtualization to find distribution and outliers data.
 3. Feature Engineering.
