@@ -18,3 +18,5 @@
   + I try many algorithms for accurecy.
 ### 6. Testing.
   - Predict on test data.
+### 7. Make a submission file.
+  - Submission file to submit on kaggle competition.  It contains the passengerID from the test file and the predict value for the test file.
